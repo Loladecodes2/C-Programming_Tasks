@@ -3,9 +3,9 @@
 int main()
 {
   /* A Program that specify data types in C
-   * @int - integer data type %d
-   * @char - character data types %c
-   * @float/double - floating point data types %f
+   * @int - Print integer data type %d
+   * @char - Print character data type %c
+   * @float/double - Print floating point data type %f
    */
 
 char c1 , c2;
@@ -28,9 +28,4 @@ double dbl_num;
 dbl_num = 123.456;
 printf("The floating point result is %f" , dbl_num);
 return(0);
-
-
-
-
-
 }
